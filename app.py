@@ -306,18 +306,18 @@ Leite das Gespräch nach Ablauf der Gesprächszeit freundlich mit ein bis drei S
 }
 
 INITIAL_ASSISTANT_MESSAGES = {
-    1: "Hallo, ich bin Lumi, Dein persönlicher Gesundheitsbegleiter zum Thema Psychohygiene. Wer bist Du?",
-    2: "Schön, dich wiederzusehen{NAME_PART}. Gestern haben wir ja über Stress und Stressbewältigung gesprochen. Heute würde ich gern mit Dir daran anschließend über Entspannungsmethoden sprechen. Wie geht es Dir heute?",
+    1: "Hallo, ich bin Lumi. Ich wurde als Chat-Bot für Themen aus dem Bereich psychische Gesundheit entwickelt. Ich werde dich in den nächsten Tagen ein Stück begleiten und mit dir über Themen rund um psychische Gesundheit, Stress und Wohlbefinden sprechen. Du kannst dabei ganz offen erzählen, was dich beschäftigt, was dir guttut oder was dir vielleicht gerade schwerfällt.",
+    2: "Hallo{NAME_PART}, schön, dass Du zu unserer heutigen Gesundheitsreflexion wieder da bist. Ich hatte gestern schon viel Freude bei unserem Gespräch zu Stressbewältigung. Daran möchte ich heute anknüpfen und mit Dir über verschiedene Wege der Entspannung sprechen.",
     3: "Hallo{NAME_PART}, schön, dass Du zu unserer heutigen Gesundheitsreflexion wieder da bist. Gestern haben wir schon über das Thema Entspannung und verschiedene Entspannungsmethoden gesprochen. Entspannung und Erholung hängen u.a. eng mit gutem Schlaf zusammen. Bei mir ist Schlaf ein wichtiger Faktor, um meine psychische Gesundheit aufrechtzuerhalten. Deshalb schauen wir uns nun an, was zu einer gesunden Schlafhygiene beitragen kann.“,
     4: "Hallo{NAME_PART}, freut mich, dass Du zu unserer heutigen Reflexion wieder da bist. Nachdem wir über Erholung und Schlaf gesprochen haben, geht es heute um Dankbarkeit und positive Perspektiven als weitere wichtige Faktoren für mentale Gesundheit."
 }
 
 
 CLOSING_ASSISTANT_MESSAGES = {
-    1: "Danke dir für deine Offenheit. Ich hatte viel Freude dabei, gemeinsam Deinen Umgang mit Stress unter die Lupe zu nehmen und hoffe, dass ich Dir ein paar Tipps für zukünftige Stressbewältigung an die Hand geben konnte. Ich denke, das ist für heute erstmal ausreichend.",
-    2: "Danke dir für deine Offenheit. Ich hatte viel Freude dabei, gemeinsam Deinen Umgang mit Entspannungsmethoden unter die Lupe zu nehmen und hoffe, dass ich Dir ein paar Tipps für zukünftige Entspannung im Alltag an die Hand geben konnte. Ich denke, das ist für heute erstmal ausreichend.",
-    3: "Danke, dass Du heute so offen über Deine Erfahrungen und Gedanken zum Thema Schlaf und Erholung gesprochen hast. Sich mit den eigenen Gewohnheiten auseinanderzusetzen, ist oft schon ein wichtiger erster Schritt für mehr Wohlbefinden. Morgen geht es dann um das Thema Dankbarkeit und darum, wie ein bewusster Blick auf positive Dinge das Wohlbefinden stärken kann.",
-    4: "Danke, dass Du heute so offen über Deine Erfahrungen und Gedanken zum Thema Dankbarkeit gesprochen hast. Sich mit den eigenen Gefühlen auseinanderzusetzen, ist oft schon ein wichtiger erster Schritt für mehr Wohlbefinden. Ich denke, das ist für heute erstmal ausreichend."
+    1: "Danke, dass du deine Erfahrungen mit Stress so offen mit mir geteilt hast. Ich habe den Eindruck, dass wir heute einen guten Einblick in deine aktuelle Situation bekommen haben und habe für mich viel aus unserem Gespräch mitgenommen. Damit sind wir für heute am Ende unseres Gesprächs angekommen. Bis morgen.",
+    2: "Danke dir für deine Offenheit. Ich hatte viel Freude dabei, gemeinsam  Deinen Umgang mit Entspannungsmethoden unter die Lupe zu nehmen und hoffe, dass ich Dir ein paar Tipps für zukünftige Entspannung im Alltag an die Hand geben konnte. Damit beenden wir für heute die Reflexion.",
+    3: "Vielen Dank für Deine Offenheit und Deine Teilnahme heute. Sich mit dem eigenen Schlaf und den eigenen Bedürfnissen auseinanderzusetzen, war für mich auch ein wichtiger Schritt. Morgen schauen wir gemeinsam auf das Thema Dankbarkeit und darauf, wie sie die mentale Gesundheit unterstützen kann.",
+    4: "Danke für das heutige Gespräch und Deine Offenheit und dafür, dass ich meine Erfahrungen mit Dir teilen konnte. Ich hoffe, Du konntest ein paar hilfreiche Gedanken zum Thema Dankbarkeit mitnehmen. Damit sind wir für heute am Ende unseres Gesprächs angekommen."
 }
 
 
